@@ -1,0 +1,6 @@
+print("Welcome to the Group Name Generator.")
+print("What is your favourite colour? ")
+colour = input()
+print("What is your favourite animal?")
+group = input()
+print(f"Your group name could be {colour} {group}s")
