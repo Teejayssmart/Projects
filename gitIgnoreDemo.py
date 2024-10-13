@@ -1,5 +1,7 @@
+target/
+
 print("Welcome .")
 print("Enter your card details? ")
-details = input()
+details1 = input()
 
-print(f"Your group name could be {details} ")
+print(f"Your group name could be {details1} ")
