@@ -5,5 +5,6 @@
 # we have 52 weeks in 1 year.
 
 solve = input("enter number of years: ")
-years = 52 * int(solve)
+#years = 52 * int(solve)
+years = 52 * float(solve)
 print(f"The number of years is {years}")
