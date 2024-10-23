@@ -1,5 +1,5 @@
 print("Welcome to the Group Name Generator.")
-print("What is your favourite colour? ")
+print("What are your favourite colours? ")
 colour = input()
 print("What is your favourite animal or animals?")
 group = input()
