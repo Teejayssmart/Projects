@@ -7,5 +7,5 @@ hours = float(userHours)
 rate = float(ratePerHour)
 grossPay1 = round(hours * rate,2)
 print(f"Your gross pay is {grossPay1}")
-
+print("bye")
 
