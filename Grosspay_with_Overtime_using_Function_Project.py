@@ -19,7 +19,6 @@ def check_for_float(p_value):
         print("There is an error")
         quit()
 
-
 hours = input("Enter Hours: ")
 hour = check_for_float(hours)
 rate = input("Enter rate: ")
