@@ -9,6 +9,7 @@ if year % 4 == 0:
     else:
         print("leap year")
 
+
 else:
     print("not a leap year")
 
